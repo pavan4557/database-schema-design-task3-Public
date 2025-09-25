@@ -94,4 +94,4 @@ Aliasing (AS)
 
 # 📌 Data Source Example Link
 
-<a href="https://github.com/pavan4557/database-schema-design-task3/blob/main/sql%20code.sql">SQL Code</a>
+<a href="https://github.com/pavan4557/database-schema-design-task3-Public/blob/main/sql%20code.sql">SQL Code</a>
